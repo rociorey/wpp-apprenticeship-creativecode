@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Keys
-SpotifyTokens
+SpotifyTokens.json
 
 # C extensions
 *.so

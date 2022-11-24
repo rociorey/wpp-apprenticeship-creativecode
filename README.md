@@ -1,1 +1,1 @@
-# wpp-apprenticeship-creativecode
+# A lil repository t gather all the tests and assigments from WPP Apprenticeship Creative Code class :)
