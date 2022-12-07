@@ -6,6 +6,10 @@ __pycache__/
 # Keys
 SpotifyTokens.json
 myKeys.json
+TwitterTokens.json
+TwitterTokens.JSON
+"Twitter Tokens.json"
+"Twitter Tokens.JSON"
 
 # C extensions
 *.so

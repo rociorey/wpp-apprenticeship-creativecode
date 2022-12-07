@@ -1,6 +1,6 @@
 ## **Traffic Jams**
 
-Traffic Jams is merges the Spotify API with a Microsoft Traffic API so those in traffic jams can musically jam together through conjoint Spotify playlists.
+Traffic Jams is an app which merges the Spotify API with a Microsoft Traffic API so those in traffic jams can musically jam together through conjoint Spotify playlists.
 
 ------
 
