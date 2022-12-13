@@ -6,3 +6,4 @@ A lil repository to gather all the tests and assignments from WPP Apprenticeship
 - **Traffic Jams**: a project which explores traffic API to create a shared Spotify playlist for those together in a traffic jam
 - **News API:** an exercise to create playlists with snippets from news headlines
 - **Twitter AI:** an exercise from class where we are classifying tweets 
+- **Moodies:** a quick project to create an AI classifier based on movie descriptions
